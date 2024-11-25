@@ -11,4 +11,4 @@ Script available in the subdirectory <b> 01_SigMA </b>, file `Script_SigMA.R`. I
 Script available in the subdirectory <b> 02_MutationalPatterns </b>, file `Script_MutationalPatterns.R`. In this script, analysis of multi-signatures is exemplified in 3 patients' tumors, including SBS and INDEL signatures.
 
 ## 3) Mutational signatures with mutSigExtractor (Martínez-Jiménez et al., 2023).
-Script available in the subdirectory <b> 02_MutSigExtractor </b>, file `Script_MutSigExtractor.R`. In this script, analysis of multi-signatures is exemplified in 3 patients' tumors, including SBS and INDEL signatures.
+Script available in the subdirectory <b> 03_MutSigExtractor </b>, file `Script_MutSigExtractor.R`. In this script, analysis of multi-signatures is exemplified in 3 patients' tumors, including SBS and INDEL signatures.
